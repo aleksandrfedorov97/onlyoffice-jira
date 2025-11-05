@@ -1,0 +1,221 @@
+---
+- - :approve
+  - atlassian-p4package
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:24:16.445660500 Z
+- - :approve
+  - atlassian-p4package
+  - :who:
+    :why: Atlassian 3.0
+    :versions: []
+    :when: 2025-11-05 11:24:57.240089300 Z
+- - :approve
+  - carol
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:26:16.031594600 Z
+- - :approve
+  - carol-properties
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:26:31.150515200 Z
+- - :approve
+  - com.springsource.net.jcip.annotation
+  - :who:
+    :why: Public
+    :versions: []
+    :when: 2025-11-05 11:27:12.586019300 Z
+- - :approve
+  - commons-discovery
+  - :who:
+    :why: Apache 2.0
+    :versions: []
+    :when: 2025-11-05 11:28:54.555523400 Z
+- - :approve
+  - commons-jrcs
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:29:39.132246000 Z
+- - :approve
+  - csv
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:30:47.256443000 Z
+- - :approve
+  - datafile
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:31:19.854862700 Z
+- - :approve
+  - dom4j
+  - :who:
+    :why: BSD 3-clause
+    :versions: []
+    :when: 2025-11-05 11:31:56.917657400 Z
+- - :approve
+  - glue
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:32:46.875246300 Z
+- - :approve
+  - jai_codec
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:33:24.473853600 Z
+- - :approve
+  - jai_core
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:33:44.725969600 Z
+- - :approve
+  - jaxen
+  - :who:
+    :why: BSD 2-clause
+    :versions: []
+    :when: 2025-11-05 11:34:31.153898500 Z
+- - :approve
+  - C:\ONLYOFFICE\Licenses\fork\onlyoffice-jira
+  - &1
+    :who:
+    :why: Public
+    :versions: []
+    :when: 2025-11-05 11:36:30.114568000 Z
+- - :approve
+  - git:[main]
+  - *1
+- - :approve
+  - jcip-annotations
+  - :who:
+    :why: Public
+    :versions: []
+    :when: 2025-11-05 11:37:15.394405200 Z
+- - :approve
+  - jdom
+  - :who:
+    :why: Similar to Apache License but with the acknowledgment clause removed
+    :versions: []
+    :when: 2025-11-05 11:38:58.499163100 Z
+- - :approve
+  - jdom2
+  - :who:
+    :why: Similar to Apache License but with the acknowledgment clause removed
+    :versions: []
+    :when: 2025-11-05 11:39:25.163483600 Z
+- - :approve
+  - jonas_timer
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:40:14.213082300 Z
+- - :approve
+  - jotm
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:40:50.171297800 Z
+- - :approve
+  - jotm-iiop_stubs
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:41:06.750745800 Z
+- - :approve
+  - jotm-jrmp_stubs
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:41:19.282448600 Z
+- - :approve
+  - jtidy
+  - :who:
+    :why: Java HTML Tidy License
+    :versions: []
+    :when: 2025-11-05 11:42:03.039451900 Z
+- - :approve
+  - jzlib
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:43:25.701634200 Z
+- - :approve
+  - modz-detector
+  - :who:
+    :why: Atlassian Customer Agreement
+    :versions: []
+    :when: 2025-11-05 11:44:20.058571900 Z
+- - :approve
+  - objectweb-datasource
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:45:00.795734700 Z
+- - :approve
+  - oro
+  - :who:
+    :why: Apache
+    :versions: []
+    :when: 2025-11-05 11:45:43.180940200 Z
+- - :approve
+  - oscore
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:46:18.252856700 Z
+- - :approve
+  - osworkflow
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:46:59.129613100 Z
+- - :approve
+  - ots-jts
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:47:40.318191200 Z
+- - :approve
+  - package-scanner
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:48:16.320012900 Z
+- - :approve
+  - pell-multipart-request
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:48:45.572915400 Z
+- - :approve
+  - propertyset
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:49:18.660587500 Z
+- - :approve
+  - radeox
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:49:52.493932000 Z
+- - :approve
+  - sitemesh
+  - :who:
+    :why: Apache 1.1
+    :versions: []
+    :when: 2025-11-05 11:50:31.050645900 Z
+- - :approve
+  - xapool
+  - :who:
+    :why: Unlicensed
+    :versions: []
+    :when: 2025-11-05 11:50:58.608798600 Z
